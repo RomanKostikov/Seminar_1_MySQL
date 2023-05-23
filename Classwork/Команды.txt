@@ -1,0 +1,6 @@
+SELECT * FROM table 
+WHERE salary > 6000
+WHERE salary >= 6000
+
+SELECT * FROM table 
+WHERE dept != 'IT'
